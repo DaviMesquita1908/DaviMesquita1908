@@ -1,4 +1,4 @@
-# Olá 👋, eu sou Davi Mesquita
+# Olá 👋, sou Davi Mesquita
 
 👨‍💻 **Estudante de Engenharia de Software | Backend & Java**
 
