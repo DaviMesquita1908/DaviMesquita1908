@@ -61,5 +61,4 @@ Estou constantemente aprimorando minhas habilidades por meio de projetos prátic
 
 ## 🚀 Filosofia
 
-> *"Código não se trata apenas de resolver problemas.
-> Trata-se de construir soluções que escalam, perduram e geram valor real."*
+> *"Tecnologia é a ferramenta. Aprendizado, dedicação e criatividade são o que transformam uma ideia em realidade."*
