@@ -2,7 +2,7 @@
 
 👨‍💻 **Estudante de Engenharia de Software | Backend & Java**
 
-Tenho grande afinidade por **tecnologia e inovação**.
+Tenho grande afinidade por **tecnologia e inovação**.                 
 Foco no desenvolvimento **backend** com Java e Spring Boot.
 
 Estou constantemente aprimorando minhas habilidades por meio de projetos práticos.
