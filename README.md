@@ -53,9 +53,9 @@ Estou constantemente aprimorando minhas habilidades por meio de projetos prátic
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
-<p align="left"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=DaviMesquita1908&show_icons=true&theme=tokyonight" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviMesquita1908&layout=compact&theme=tokyonight" /> </p>
+<p align="left"> <img height="170" src="https://github-stats-extended.vercel.app/api?username=DaviMesquita1908&show_icons=true&theme=tokyonight" /> <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DaviMesquita1908&layout=compact&theme=tokyonight" /> </p>
 
 ---
 
