@@ -3,7 +3,7 @@
 👨‍💻 **Estudante de Engenharia de Software | Backend & Java**
 
 Tenho grande afinidade por **tecnologia e inovação**.                 
-Atuo no desenvolvimento **backend** com Java e Spring Boot.
+Sou voltado ao desenvolvimento **backend** com Java e Spring Boot.
 
 Estou constantemente aprimorando minhas habilidades por meio de projetos práticos.
 
